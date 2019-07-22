@@ -20,4 +20,4 @@ The interface is fairly intuitive. On the two lists of burgers, you can use the 
 
 ## You mentioned Heroku - can I try the app there or something?
 
-Yep! [Click here to try it out.](https://adams-veggie-burger-tracker.herokuapp.com/ "Adam G Friend Finder App on Heroku")
+Yep! [Ctrl+click here to try it out in a new browser tab.](https://adams-veggie-burger-tracker.herokuapp.com/ "Adam G Friend Finder App on Heroku")
