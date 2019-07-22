@@ -1,0 +1,9 @@
+<li class="list-group-item {{#if devoured}}toEat{{else}}eaten{{/if}}">
+	{{#if devoured}}<i class="fas fa-hamburger"></i>{{else}}<i class="far fa-smile-beam"></i>{{/if}} {{burger_name}}
+	<span class="burger-buttons">
+		<button class="change-devoured" data-id="{{id}}" data-newdevoured="{{devoured}}">
+			{{#if devoured}}Devour{{else}}Not eaten yet!{{/if}}
+		</button>
+		<button class="delete-burger" data-id="{{this.id}}">Delete</button>
+	</span>
+</li>

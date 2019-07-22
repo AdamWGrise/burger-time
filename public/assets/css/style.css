@@ -1,0 +1,34 @@
+body {
+    font-family: Fresca, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    background-image: url("../images/burgerbackground.png"); 
+}
+
+.toEat {
+    border: 5px solid #F23005;
+    margin: 2px;
+}
+
+.eaten {
+    border: 5px solid #BFB304;
+    margin: 2px;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.burger-buttons {
+    float: right;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
+hr.faded {
+    border: 0; 
+    height: 1px; 
+    background-image: -webkit-linear-gradient(left, #999, #111, #999);
+    background-image: -moz-linear-gradient(left, #999, #111, #999);
+    background-image: -ms-linear-gradient(left, #999, #111, #999);
+    background-image: -o-linear-gradient(left, #999, #111, #999); 
+}
