@@ -1,5 +1,9 @@
 body {
-    font-family: Fresca, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    background-image: url("../images/burgerbackground.png"); 
+    font-family: Fresca, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("../images/burgerbackground.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
 }
 
 .toEat {
