@@ -1,4 +1,4 @@
-INSERT INTO burgers
+INSERT INTO burgerdb.burgers
     (burger_name, devoured)
 VALUES
     ("Impossible Burger", 0),
